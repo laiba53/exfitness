@@ -1,0 +1,57 @@
+
+---Downloaded files---
+The import files for: Demo 5 were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/exfitness.me
+Data file = C:\wamp64\www\exfitness.me/wp-content/uploads/2021/05/demo-content-import-file_2021-05-24__06-29-28.xml
+Widget file = C:\wamp64\www\exfitness.me/wp-content/uploads/2021/05/demo-widgets-import-file_2021-05-24__06-29-28.json
+Customizer file = C:\wamp64\www\exfitness.me/wp-content/uploads/2021/05/demo-customizer-import-file_2021-05-24__06-29-28.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Sidebar : 
+
+LINX: Social Links - Social Links - Imported
+LINX: Picked Posts - No Title - Imported
+
+Instagram Footer : 
+
+null-instagram-feed - We&#039;re on Instagram! - Site does not support widget
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+
